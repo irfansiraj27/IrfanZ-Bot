@@ -8,17 +8,20 @@
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/irfansiraj27/followers"><img title="Followers" src="https://img.shields.io/github/followers/irfansiraj27?color=blue&style=flat-square"></a>
+<a href="https://github.com/irfansiraj27/IrfanZ-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/irfansiraj27/IrfanZ-Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/irfansiraj27/IrfanZ-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/irfansiraj27/IrfanZ-Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/irfansiraj27/IrfanZ-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/irfansiraj27/IrfanZ-Bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
+
+
+
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/irfansiraj27/IrfanZ-Bot
 ```
 
 ## Install the dependencies:
@@ -26,7 +29,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd termux-wabot
+> cd IrfanZ-Bot
 > bash install.sh
 ```
 
@@ -73,7 +76,7 @@ you've just cloned!!
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
-## Group
-* [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+
+
+
+
